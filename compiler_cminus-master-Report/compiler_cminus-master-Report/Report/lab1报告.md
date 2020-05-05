@@ -233,7 +233,7 @@ int main() {
 
 **运行结果**：
 
-![3](image.PNG)
+![3](images/image.PNG)
 
 #### 四、时间统计：
 
